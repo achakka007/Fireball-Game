@@ -4,9 +4,9 @@
 ## INSTRUCTIONS:
 There can be several rounds in this game. In each round, the player can:
 
-1 - Charge (Build up charge required for other moves). 
-2 - Block  (Blocks all attacks). 
-3 - Attack (Use one of several attacks to eliminate the other player). 
+1 - Charge (Build up charge required for other moves).  
+2 - Block  (Blocks all attacks).  
+3 - Attack (Use one of several attacks to eliminate the other player).  
 
 Different attacks require different amounts of charge. If both players attack, then the one with the stronger attack wins.
 The game ends if either player gets eliminated by an attack.
